@@ -1,0 +1,10 @@
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\22134012_VoHongQuan_Project10_C#.csproj.AssemblyReference.cache
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\_22134012_VoHongQuan_Project10_C_.Form1.resources
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\_22134012_VoHongQuan_Project10_C_.Properties.Resources.resources
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\22134012_VoHongQuan_Project10_C#.csproj.GenerateResource.cache
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\22134012_VoHongQuan_Project10_C#.csproj.CoreCompileInputs.cache
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\bin\Debug\22134012_VoHongQuan_Project10_C#.exe.config
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\bin\Debug\22134012_VoHongQuan_Project10_C#.exe
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\bin\Debug\22134012_VoHongQuan_Project10_C#.pdb
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\22134012_VoHongQuan_Project10_C#.exe
+C:\Data\Machine Vision\22134012_VoHongQuan_Project10_C#\obj\Debug\22134012_VoHongQuan_Project10_C#.pdb
